@@ -1,37 +1,42 @@
-# AI Prompt Library — 205 Premium Prompts for ChatGPT / Claude / Gemini
+# AI Prompt Library — 205 Premium Copy-Paste Prompts for ChatGPT / Claude / Gemini
 
-**Stop reinventing prompts every time.** This is a curated, copy-paste-ready library of 205 high-impact prompts organized into 12 chapters, designed for people who use AI daily and want better output in less time.
+> The exact prompts I use to get high-quality AI output every time. 205 prompts, 12 categories, 29 pages, with real output examples.
 
-## What's inside (12 chapters)
-- 📝 Writing & Editing
-- 💻 Coding & Debugging
-- 📣 Marketing & Positioning
-- 🔍 SEO & Research
-- 📱 Social Media & Content
-- 🎓 Learning & Tutoring
-- 📊 Data Analysis
-- 🧠 Brainstorming & Ideation
-- 🗣️ Communication & Email
-- ⚙️ Workflow Automation
-- 🎨 Role-Play Frameworks
-- 🛠️ Utility & Everyday Tasks
+## Why this library?
 
-Each prompt is a ready-to-use template — paste, fill in the brackets, and get professional-grade output. No more "please write..." vagueness that wastes tokens and time.
+Most people get generic AI output because they use generic prompts. This library fixes that:
+
+- **205 copy-paste prompts** — no prompt engineering degree required
+- **12 categories**: Writing, Coding, Marketing, Learning, Business, Data Analysis, Social Media, Productivity, Life Coaching, Translation, Research, Prompt Engineering
+- **Every prompt shows**: the goal → the exact template → a real output example
+- **29 pages of pure, usable content** — templates you can adapt to your own work in seconds
+
+## What's inside (sample)
+
+**Writing**
+> "Write a 1200-word blog post about [TOPIC] for [AUDIENCE]. Hook in first 3 sentences, 3 subheadings, one comparison table, end with a clear CTA."
+
+**Coding**
+> "Here is my code: [PASTE]. It fails with [ERROR]. Walk through the root cause step by step, then give the fixed code."
+
+**Marketing**
+> "Write 5 value propositions for [PRODUCT] targeting [AUDIENCE]. Each under 15 words, focused on outcomes not features."
 
 ## Who is this for?
-- **Developers** who want reliable code review / debugging / refactoring prompts
-- **Content creators & freelancers** who produce blog posts, emails, and social content daily
-- **Marketers** who need ad copy, positioning, and keyword angles on demand
-- **Students & learners** who want to use AI as a personal tutor
-- **Anyone** who feels they're "not getting the most out of ChatGPT"
 
-## How to get the full PDF
-The full 205-prompt library is a **29-page PDF** — instant download after payment.
+- Freelancers & content creators using AI daily
+- Programmers who want better code from AI assistants
+- Marketers writing copy faster
+- Students learning faster with AI
+- Anyone tired of mediocre AI answers
 
-**💳 Get it here (¥29 / $9.9):** http://82.157.101.183:8088/图灵/web/
+## Get the full PDF
 
-One-time payment, lifetime access, and **free upgrades** when the library expands to 500+ prompts.
+👉 **Full 205-prompt library (29-page PDF):**
+http://82.157.101.183:8088/图灵/web/
+
+If you find this useful, ⭐ star this repo to help others find it.
 
 ---
 
-*Try before you buy: 20 free sample prompts are available in this gist: https://gist.github.com/meiqiu912/019ae9edae0d45bf0072768a6ff19a96*
+*Built for people who want AI to actually work for them.*
