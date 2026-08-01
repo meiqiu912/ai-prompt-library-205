@@ -1,41 +1,34 @@
-# 🤖 AI Prompt Library — 205 Premium English Prompts (PDF)
+# AI Prompt Library — 205 Premium Prompts for ChatGPT / Claude / Gemini
 
-**Stop guessing. Start getting great AI output.**
+> Stop guessing. Start prompting like a pro.
 
-205 hand-crafted English prompts for **ChatGPT, Claude & Gemini** — organized into 12 practical categories. Every prompt includes a copy-paste-ready template, customizable parameters, and expected-output notes.
+## What's inside
 
----
+**205 hand-curated, ready-to-use English prompts** organized into **12 categories**:
 
-## 📖 What's Inside
+| Category | Example Use |
+|---|---|
+| ✍️ Writing | Hooks, rewriting, headlines, editing |
+| 💻 Programming | Code review, debugging, refactoring |
+| 📈 Marketing | Cold emails, ad copy, SEO keywords |
+| 🎓 Learning | Study plans, quizzes, flashcards |
+| 📊 Data Analysis | Insights, visualization, reporting |
+| 💼 Business | Strategy, proposals, decision-making |
+| + 6 more | ... |
 
-| # | Category | Example Use |
-|---|----------|-------------|
-| 01 | Writing & Editing | Articles, rewriting, tone control |
-| 02 | Marketing & Sales | Ad copy, email sequences, positioning |
-| 03 | Coding & Debugging | Code review, refactoring, tests |
-| 04 | Business & Strategy | SWOT, pricing, competitor analysis |
-| 05 | Research & Analysis | Summaries, data interpretation |
-| 06 | Learning & Tutoring | Explain anything, Socratic tutor |
-| 07 | Productivity & Planning | Task breakdown, meeting prep |
-| 08 | Career & Resume | Resume bullets, interview prep |
-| 09 | Social Media & Content | Post ideas, captions, scripts |
-| 10 | Translation | Accurate, natural localization |
-| 11 | Email & Communication | Cold emails, follow-ups, replies |
-| 12 | Creative & Ideas | Brainstorming, naming, concepts |
+Every prompt includes **placeholders** so you can drop in your own context and use it immediately. No theory — just copy, paste, get better results.
 
-## 🎯 Why It Works
+## Who it's for
+- Freelancers & content creators who use AI daily
+- Developers who want sharper code output
+- Marketers writing copy with ChatGPT/Claude
+- Students learning faster with AI
 
-- **Structured prompts** get consistently better output than vague ones
-- **Copy-paste ready** — no prompt engineering experience needed
-- **12 categories** cover 90% of daily AI use cases
-- **29 pages** of curated, battle-tested templates
-
-## 🛒 Get the Full PDF
-
-👉 **Buy now (¥29, instant email delivery):** http://82.157.101.183:8088/图灵/web/
-
-*One-time purchase. Works with ChatGPT, Claude & Gemini. Free sample prompts in the gist: [20 Prompts Free Sample](https://gist.github.com/)*
+## Get the full PDF
+📥 **Instant download**: http://82.157.101.183:8088/图灵/web/
 
 ---
 
-⭐ Star this repo if you found it useful. Questions? Open an issue.
+*Free sample: 20 High-Impact AI Prompts → https://gist.github.com/meiqiu912/311a6c81109e2decbc68abe91e66c05c*
+
+⭐ Star this repo if you found it useful!
